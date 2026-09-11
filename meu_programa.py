@@ -47,3 +47,5 @@ nome = input("Digite seu nome: ")
 idade = int(input("Digite sua idade: "))
 dias = idade * 365
 print(f"{nome}, você já viveu aproximadamnente {dias} dias.")
+
+#7
